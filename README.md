@@ -2,5 +2,5 @@
 Hacky Criminality,
 loadstring:
 ```
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HMECODES/Criminality/main/main.lua", true))()
 ```
